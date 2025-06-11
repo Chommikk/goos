@@ -80,7 +80,7 @@
 
         Symbol {
             bindings = <
-&none                       &kp SINGLE_QUOTE             &kp DOLLAR               &kp AMPERSAND               &kp CARET                    &none          &kp POUND               &kp LEFT_BRACKET                     &kp RIGHT_BRACKET                 &none
+&none                       &kp SINGLE_QUOTE             &kp DOLLAR               &kp AMPERSAND               &kp CARET                    &kp COLON      &kp POUND               &kp LEFT_BRACKET                     &kp RIGHT_BRACKET                 &none
 &hrm LEFT_META EXCLAMATION  &hrm LEFT_ALT DOUBLE_QUOTES  &hrm LEFT_CONTROL MINUS  &hrm LEFT_SHIFT UNDERSCORE  &kp PLUS                     &kp PLUS       &hrm RIGHT_SHIFT ASTRK  &hrm RIGHT_CONTROL LEFT_PARENTHESIS  &hrm RIGHT_ALT RIGHT_PARENTHESIS  &hrm RGUI PERCENT
 &none                       &kp GRAVE                    &kp PIPE                 &kp EQUAL                   &kp TILDE                    &kp BACKSLASH  &kp AT_SIGN             &kp LEFT_BRACE                       &kp RIGHT_BRACE                   &none
                                                                                   &kp ESC                     &mo 3      &kp TAB    &none  &none          &none
