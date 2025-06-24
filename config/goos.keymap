@@ -55,6 +55,11 @@
             bindings = <&tog 1>;
             key-positions = <0 20>;
         };
+
+        dollar {
+            bindings = <&kp DOLLAR>;
+            key-positions = <16 17>;
+        };
     };
 
     keymap {
